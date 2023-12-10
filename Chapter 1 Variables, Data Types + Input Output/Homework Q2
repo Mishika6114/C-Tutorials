@@ -1,0 +1,10 @@
+//Q2: Take a number (n) form user &output its cube.
+
+int main () {
+ float n;
+ printf("enter number n ");
+ scanf("%f", &n);
+
+ printf("cube of the number is : %f", n*n*n);
+ return 0;   
+}
